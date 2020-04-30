@@ -2,7 +2,7 @@ class Dog
   def name
     @name
   end
-      #has a name
+      #instantiates a new dog
 
   def name=(dog_name)
     @name = dog_name
